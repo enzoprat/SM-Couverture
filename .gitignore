@@ -1,0 +1,5 @@
+.claude/
+.DS_Store
+.tmp_*/
+/PHOTO-*.jpg
+/logo sm couverture.png
